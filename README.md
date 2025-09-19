@@ -1,5 +1,13 @@
 # 💫 About Me:
-👋 Hi, I'm Rishi Jain<br>I'm a passionate developer currently building cool stuff with Flutter and the MERN stack (MongoDB, Express.js, React.js, Node.js). Always exploring new technologies and bringing ideas to life through code.<br><br>Tech I Love<br>Cross-platform mobile apps (Flutter)<br><br>Full-stack web apps (MERN)<br><br>Learning React.js and diving into open-source<br><br>Fun Fact<br>Did you know the term “computer bug” actually comes from a real insect found in a computer? Coding has more surprises than it seems!<br><br>Let’s connect, collaborate, and build something amazing together! 🚀
+👋 Hi, I'm Rishi Jain
+<br>I'm a passionate developer with a knack for solving complex problems through code. With expertise in languages like **Python**, **Java**, and **C++**, I love creating efficient, scalable, and user-friendly applications.
+<br><br>Tech I Love
+<br>• Python, Java, C++
+<br>• Creating efficient, scalable, and user-friendly applications
+<br><br>Learning
+<br>• Latest tech trends
+<br>• Contributing to open-source projects
+<br><br>Let's connect and collaborate on innovative projects that make a difference. Check out my portfolio and GitHub for more of my work. Excited to build the future together! 🚀
 
 
 ## 🌐 Socials:
